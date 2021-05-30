@@ -1,0 +1,46 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    background-image: url(../imagenes/soccer.jpg);
+}
+h1{
+   text-align: center;
+    font-family: Candara;
+    font-size: 40px;
+    text-transform: uppercase; 
+    background-image: url(../imagenes/fondo2.jpg);
+    color:royalblue;
+    border-radius: 15px;
+    font-style: italic;
+}
+section{
+    margin: 5px;
+    padding: 5px;
+    background-image: url(../imagenes/fondo3.jpg);
+    font-family: Century Gothic;
+    font-size: 20px;
+    text-align: justify;
+    border-radius: 15px;
+}
+section h2{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+h3{
+    color: white;
+}
+a{
+    color: white;
+    font-size: 20px;
+}
+img{
+    width: 30%;
+}
+ol{
+   margin: 5px;
+    padding: 5px;
+}
